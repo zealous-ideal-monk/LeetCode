@@ -17,3 +17,5 @@ public:
         return ans;
     }
 };
+
+// https://leetcode.com/problems/build-array-from-permutation/submissions/1668278644

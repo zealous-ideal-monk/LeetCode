@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/find-words-containing-character/submissions/1668273472
 //Description:
 //You are given a 0-indexed array of strings words and a character x.
 //Return an array of indices representing the words that contain the character x.
@@ -25,3 +24,5 @@ public:
         return result;
     }
 };
+
+// https://leetcode.com/problems/find-words-containing-character/submissions/1668273472
